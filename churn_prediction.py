@@ -78,6 +78,7 @@ def hist_and_box_plot(col1, col2, col3, data, bin1=30, bin2=30, bin3=30, sup =""
     fig.subplots_adjust(top = 0.90)
     plt.show()
 
+    
 # plotting histogram and boxplot for day calls, minute and charges
 hist_and_box_plot('total day minutes', 'total day calls', 'total day charge', 
                   data = churn_data_df, sup = "Day time call details")
