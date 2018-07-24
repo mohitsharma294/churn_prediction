@@ -24,6 +24,3 @@ ggplot2, corrgram, corrplot, randomForest, caret, class, e1071, mlr, grid, DMwR,
 
 Note: make sure to change path as per file location
 
-### Authors
-Mohit Sharma
-
