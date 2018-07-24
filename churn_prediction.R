@@ -16,7 +16,6 @@ for (lib in required_library){
 # removing extra variable
 rm(required_library,lib)
 
-
 # Reading train and test csv file
 # set working directory to the file location, uncomment below line and put full path
 # setwd("full path to folder in which file is present")
